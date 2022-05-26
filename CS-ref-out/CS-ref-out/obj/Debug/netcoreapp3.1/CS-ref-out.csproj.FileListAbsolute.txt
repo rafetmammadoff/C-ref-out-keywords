@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\bin\Debug\netcoreapp3.1\CS-ref-out.exe
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\bin\Debug\netcoreapp3.1\CS-ref-out.deps.json
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\bin\Debug\netcoreapp3.1\CS-ref-out.runtimeconfig.json
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\bin\Debug\netcoreapp3.1\CS-ref-out.runtimeconfig.dev.json
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\bin\Debug\netcoreapp3.1\CS-ref-out.dll
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\bin\Debug\netcoreapp3.1\CS-ref-out.pdb
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.AssemblyInfo.cs
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.dll
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.pdb
+C:\Users\profe\Desktop\C-ref-out-keywords\CS-ref-out\CS-ref-out\obj\Debug\netcoreapp3.1\CS-ref-out.genruntimeconfig.cache
